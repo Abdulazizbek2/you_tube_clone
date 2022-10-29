@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/asuscomputer/Documents/Android/flutter_project/module_7/you_tube_clone/build/flutter_inappwebview/intermediates/incremental/mergeReleaseResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/Users/asuscomputer/.gradle/caches/transforms-3/ea6751acb56b0b88131e2e20244ba024/transformed/appcompat-1.5.1/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/asuscomputer/Documents/Android/flutter_project/module_7/you_tube_clone/build/flutter_inappwebview/intermediates/merged_res/release/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/Users/asuscomputer/.gradle/caches/transforms-3/ea6751acb56b0b88131e2e20244ba024/transformed/appcompat-1.5.1/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

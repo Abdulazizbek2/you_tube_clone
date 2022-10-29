@@ -1,0 +1,4 @@
+#Tue Oct 18 23:46:54 UZT 2022
+base.0=/Users/asuscomputer/Documents/Android/flutter_project/module_7/you_tube_clone/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

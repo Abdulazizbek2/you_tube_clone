@@ -1,0 +1,4 @@
+#Mon Oct 24 19:50:16 UZT 2022
+base.0=/Users/asuscomputer/Documents/Android/flutter_project/module_7/you_tube_clone/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
